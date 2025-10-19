@@ -1,0 +1,40 @@
+{
+  "carro": [
+    {
+      "id": 1,
+      "marca": "Volkswagen",
+      "modelo": "Fusca",
+      "cor": "Azul",
+      "placa": "ANO4S56",
+      "preco": 30000.00,
+      "ano": 1972
+    },
+    {
+      "id": 2,
+      "marca": "Chevrolet",
+      "modelo": "Opala",
+      "cor": "Preto",
+      "placa": "BRA5IL",
+      "preco": 50000.00,
+      "ano": 1979
+    },
+    {
+      "id": 3,
+      "marca": "Ford",
+      "modelo": "Corcel",
+      "cor": "Branco",
+      "placa": "CAR4RO",
+      "preco": 40000.00,
+      "ano": 1975
+    },
+    {
+      "id": 4,
+      "marca": "Fiat",
+      "modelo": "147",
+      "cor": "Vermelho",
+      "placa": "D4T4S",
+      "preco": 20000.00,
+      "ano": 1978
+    }
+  ]
+}

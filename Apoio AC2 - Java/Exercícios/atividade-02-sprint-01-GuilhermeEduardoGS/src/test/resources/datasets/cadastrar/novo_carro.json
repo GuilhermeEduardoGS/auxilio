@@ -1,0 +1,13 @@
+{
+  "carro": [
+    {
+      "id": "regex:\\d+",
+      "marca": "Volkswagen",
+      "modelo": "Fusca",
+      "cor": "Azul",
+      "placa": "ANO4S56",
+      "preco": 30000.00,
+      "ano": 1972
+    }
+  ]
+}

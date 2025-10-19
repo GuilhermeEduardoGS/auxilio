@@ -1,0 +1,188 @@
+{
+  "carro": [
+    {
+      "marca": "Chevrolet",
+      "modelo": "Opala",
+      "cor": "Preto",
+      "placa": "BRA5IL",
+      "preco": 50000.00,
+      "ano": 1979
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Corcel",
+      "cor": "Branco",
+      "placa": "CAR4RO",
+      "preco": 40000.00,
+      "ano": 1975
+    },
+    {
+      "marca": "Fiat",
+      "modelo": "147",
+      "cor": "Vermelho",
+      "placa": "D4T4S",
+      "preco": 20000.00,
+      "ano": 1978
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Chevette",
+      "cor": "Amarelo",
+      "placa": "FUSC4",
+      "preco": 25000.00,
+      "ano": 1976
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Maverick",
+      "cor": "Roxo",
+      "placa": "H4R4M",
+      "preco": 45000.00,
+      "ano": 1974
+    },
+    {
+      "marca": "Fiat",
+      "modelo": "147",
+      "cor": "Laranja",
+      "placa": "J4M3L",
+      "preco": 15000.00,
+      "ano": 1973
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Opala",
+      "cor": "Azul",
+      "placa": "K4R4L",
+      "preco": 55000.00,
+      "ano": 1972
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Corcel",
+      "cor": "Preto",
+      "placa": "L4R4N",
+      "preco": 45000.00,
+      "ano": 1971
+    },
+    {
+      "marca": "Fiat",
+      "modelo": "147",
+      "cor": "Branco",
+      "placa": "M4R4C",
+      "preco": 25000.00,
+      "ano": 1970
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Chevette",
+      "cor": "Vermelho",
+      "placa": "N4R4N",
+      "preco": 35000.00,
+      "ano": 1969
+    },
+    {
+      "marca": "Volkswagen",
+      "modelo": "Fusca",
+      "cor": "Amarelo",
+      "placa": "P4R4D",
+      "preco": 15000.00,
+      "ano": 1968
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Maverick",
+      "cor": "Verde",
+      "placa": "Q4R4T",
+      "preco": 55000.00,
+      "ano": 1967
+    },
+    {
+      "marca": "Fiat",
+      "modelo": "147",
+      "cor": "Roxo",
+      "placa": "R4R4X",
+      "preco": 45000.00,
+      "ano": 1966
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Opala",
+      "cor": "Laranja",
+      "placa": "S4R4Z",
+      "preco": 25000.00,
+      "ano": 1965
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Corcel",
+      "cor": "Azul",
+      "placa": "T4R4W",
+      "preco": 35000.00,
+      "ano": 1964
+    },
+    {
+      "marca": "Fiat",
+      "modelo": "147",
+      "cor": "Preto",
+      "placa": "U4R4Y",
+      "preco": 15000.00,
+      "ano": 1963
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Chevette",
+      "cor": "Branco",
+      "placa": "V4R4X",
+      "preco": 55000.00,
+      "ano": 1962
+    },
+    {
+      "marca": "Volkswagen",
+      "modelo": "Brasília",
+      "cor": "Vermelho",
+      "placa": "W4R4Z",
+      "preco": 45000.00,
+      "ano": 1961
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Maverick",
+      "cor": "Amarelo",
+      "placa": "X4R4A",
+      "preco": 25000.00,
+      "ano": 1960
+    },
+    {
+      "marca": "Fiat",
+      "modelo": "147",
+      "cor": "Verde",
+      "placa": "Y4R4B",
+      "preco": 35000.00,
+      "ano": 1959
+    },
+    {
+      "marca": "Chevrolet",
+      "modelo": "Opala",
+      "cor": "Roxo",
+      "placa": "Z4R4C",
+      "preco": 15000.00,
+      "ano": 1958
+    },
+    {
+      "marca": "Ford",
+      "modelo": "Corcel",
+      "cor": "Laranja",
+      "placa": "A5R4D",
+      "preco": 55000.00,
+      "ano": 1957
+    },
+    {
+      "marca": "Fiat",
+      "modelo": "147",
+      "cor": "Azul",
+      "placa": "B5R4E",
+      "preco": 45000.00,
+      "ano": 1956
+    }
+  ]
+}
