@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="validacoes" />
+        <module name="exemplo-relacionamento" />
+        <module name="exercicio" />
+        <module name="cafe-todo-dia-cp2" />
+        <module name="cafe-todo-dia-cp1" />
+        <module name="sprint1-nota1" />
+        <module name="AulaDia25" />
+        <module name="implementacao-lista" />
+        <module name="ex-carro" />
+        <module name="exercicio (1)" />
+        <module name="exemplo-strategy" />
+        <module name="Logica" />
+      </profile>
+      <profile name="Annotation profile for exemplo-curso" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.36/lombok-1.18.36.jar" />
+        </processorPath>
+        <module name="exemplo-curso" />
+      </profile>
+      <profile name="Annotation profile for exemplo-lombok" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/1.18.40/lombok-1.18.40.jar" />
+        </processorPath>
+        <module name="exemplo-lombok" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="ordenacao" target="23" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="AulaDia25" options="-parameters" />
+      <module name="ex-carro" options="-parameters" />
+      <module name="exemplo-curso" options="-parameters" />
+      <module name="exemplo-lombok" options="-parameters" />
+      <module name="exemplo-relacionamento" options="-parameters" />
+      <module name="exemplo-strategy" options="-parameters" />
+      <module name="exercicio" options="-parameters" />
+      <module name="exercicio (1)" options="-parameters" />
+      <module name="sprint1-nota1" options="-parameters" />
+      <module name="validacoes" options="-parameters" />
+    </option>
+  </component>
+</project>

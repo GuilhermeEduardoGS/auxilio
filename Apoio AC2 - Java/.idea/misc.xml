@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Frete/exemplo-strategy/pom.xml" />
+        <option value="$PROJECT_DIR$/Logica/pom.xml" />
+        <option value="$PROJECT_DIR$/aula 04/validacoes/pom.xml" />
+        <option value="$PROJECT_DIR$/Aula 05/AulaDia25/pom.xml" />
+        <option value="$PROJECT_DIR$/Aula 05/exemplo-relacionamento/pom.xml" />
+        <option value="$PROJECT_DIR$/Aula 06/atv01-sp02-inverter-texto-GuilhermeEduardoGS/pom.xml" />
+        <option value="$PROJECT_DIR$/Aula 06/atv02-sp02-inverter-apenas-letras-GuilhermeEduardoGS/pom.xml" />
+        <option value="$PROJECT_DIR$/Aula 07/exemplo-curso/pom.xml" />
+        <option value="$PROJECT_DIR$/Aula 07/exemplo-lombok/pom.xml" />
+        <option value="$PROJECT_DIR$/exercicio/pom.xml" />
+        <option value="$PROJECT_DIR$/ordenacao/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercícios/atv02-sp02-lista-GuilhermeEduardoGS/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercícios/atividade-01-sprint-01-GuilhermeEduardoGS/pom.xml" />
+        <option value="$PROJECT_DIR$/Exercícios/atividade-02-sprint-01-GuilhermeEduardoGS/pom.xml" />
+        <option value="$PROJECT_DIR$/Atividade 18-09-2025/exercicio/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/ordenacao/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_23" default="true" project-jdk-name="23" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/out" />
+  </component>
+</project>
