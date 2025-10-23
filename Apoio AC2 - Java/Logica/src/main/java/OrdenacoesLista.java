@@ -109,11 +109,11 @@ public class OrdenacoesLista {
         System.out.println("Original: " + dados);
 
         // Teste qualquer um dos algoritmos:
-        // bubbleSort(dados);
-        // selectionSort(dados);
-        // insertionSort(dados);
-        // mergeSort(dados, 0, dados.size() - 1);
-        quickSort(dados, 0, dados.size() - 1);
+//        bubbleSort(dados);
+//        selectionSort(dados);
+//        insertionSort(dados);
+//        mergeSort(dados, 0, dados.size() - 1);
+//        quickSort(dados, 0, dados.size() - 1);
 
         System.out.println("Ordenado: " + dados);
     }
