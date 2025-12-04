@@ -1,0 +1,13 @@
+spring:
+  application:
+    name: treino-prova
+  jpa:
+    show-sql: true
+    defer-datasource-initialization: true
+    properties:
+      hibernate:
+        format_sql: true
+server:
+  error:
+    include-message: always
+    include-binding-errors: always
